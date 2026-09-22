@@ -84,6 +84,7 @@ public class PalindromeChecker {
 
 ## Output:
 
+<img width="477" height="165" alt="image" src="https://github.com/user-attachments/assets/875ff404-69b4-43b5-88d9-2e2b0650836d" />
 
 
 ## Result:
